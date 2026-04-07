@@ -14,6 +14,18 @@ export default defineConfig({
       jpeg: { quality: 80 },
       jpg:  { quality: 80 },
       webp: { lossless: false, quality: 80 },
+      svg:  { plugins: [{ name: 'preset-default' }] },
     }),
   ],
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ['react', 'react-dom'],
+          icons:  ['lucide-react'],
+        },
+      },
+    },
+    chunkSizeWarningLimit: 1000,
+  },
 })

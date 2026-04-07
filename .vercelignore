@@ -1,0 +1,9 @@
+.history
+.git
+node_modules
+src
+public
+*.config.*
+*.json
+!package.json
+!vercel.json
