@@ -9,7 +9,7 @@ const wishes = [
   {
     id: 1,
     author: 'Kaleb',
-    text: 'You have this rare ability to make everyone around you feel seen and valued. That is a gift not many people have. Wishing you a birthday as warm and full as the energy you give to others.',
+    text: 'You are a good, intelligent and a chill person, and that combination is rarer than you think. The way you carry yourself with ease and still show up for the people around you says everything about your character. May Allah shower you with blessings, open doors for you that no one can shut, and give you a year filled with everything your heart quietly hopes for.',
   },
   {
     id: 2,
@@ -19,17 +19,17 @@ const wishes = [
   {
     id: 3,
     author: 'Tabita',
-    text: 'You are one of those people who just gets it  life, people, the little things that matter. I am so glad to know you. Wishing you joy today and every day that follows.',
+    text: 'Happy birthday Lama. You have this quiet but powerful way of making people feel comfortable just by being yourself. Your kindness is not performative, it is just who you are, and that is one of the most beautiful things about you. I pray this year brings you clarity, joy, and every good thing you have been working toward.',
   },
   {
     id: 4,
     author: 'Uwase',
-    text: 'Your kindness is not loud, but it is felt by everyone around you. Thank you for being the kind of person who shows up. Happy birthday, Lama — you deserve the world.',
+    text: 'Happy birthday, Lama. You are such a kind and wonderful person. Even though you are not from here, you have become a very special part of our group, and I am so grateful to know you. The little things you do, like bringing us snacks, show your big and caring heart and make everyone happy. On your special day, I pray that your life is full of happiness, peace, and good health, and that all your silent prayers be granted. May the Lord bless you and keep you and make His face shine upon you and be gracious to you. I love you so much. Jeremiah 29:11',
   },
   {
     id: 5,
     author: 'Berenice',
-    text: 'There is something about the way you approach things  thoughtful, intentional, real. It makes being around you feel easy. Wishing you a year full of moments that match your energy.',
+    text: 'Happy Birthday to you. On this special day, the world was blessed with your beauty and the grace you carry in everything you do. Your heart is rare, given freely, never held back, and your presence is something truly unmatched. I pray your dreams come shining through, that your success finds you, and that joy always finds its way to your face. May you never feel empty, and may you always walk with your head held high, surrounded by love and guided with strength. Keep being the incredible person you are because you are truly appreciated.',
   },
   {
     id: 6,
@@ -39,17 +39,17 @@ const wishes = [
   {
     id: 7,
     author: 'Kenia',
-    text: 'Watching you grow and show up for yourself and others has been something truly beautiful. Happy birthday — keep going, keep glowing, keep being exactly who you are.',
+    text: 'Happy birthday Lama, we are so blessed to have you. You are such a great and wonderful person that lights up every room. Your presence alone makes everything better, and the way you carry yourself with grace and warmth is something truly special. I wish you all the best this world has to offer, today and every day that follows.',
   },
   {
     id: 8,
     author: 'Emery',
-    text: 'You lead with your heart and that is something the world needs more of. Wishing you a birthday filled with laughter, love, and all the good things you quietly put out into the world.',
+    text: 'Happy birthday Lama. You are the kind of person who does not need to say much to leave a lasting impression. Your presence speaks for itself. I hope this year is filled with moments that remind you just how special you are, and that every dream you are chasing finds its way to you.',
   },
   {
     id: 9,
     author: 'Nuyu',
-    text: 'You have a quiet strength that speaks louder than words. Being on this team with you is a privilege. Wishing you a birthday as beautiful as the person you are.',
+    text: 'Lama, knowing you has been a genuine pleasure. You carry yourself with a grace and authenticity that is hard to find. On your special day I wish you peace, abundance, and the confidence to walk boldly into everything ahead of you. The world is better with you in it.',
   },
 ];
 

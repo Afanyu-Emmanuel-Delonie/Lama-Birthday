@@ -97,12 +97,12 @@ export default function Hero() {
               </div>
 
               <div className="flex flex-wrap gap-3 lg:gap-4 pt-2 lg:pt-4">
-                <button onClick={() => setWishOpen(true)} className="group btn-primary">
-                  Read My Wish
+                <a href="#wishes" className="group btn-primary">
+                  Read Wishes
                   <Gift className="w-5 h-5 group-hover:scale-110 transition-transform" />
-                </button>
-                <a href="#about" className="btn-outline group">
-                  About Lama
+                </a>
+                <a href="#movies" className="btn-outline group">
+                  Movie Picks
                   <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </a>
               </div>

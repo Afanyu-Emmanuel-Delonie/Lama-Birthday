@@ -4,10 +4,10 @@ import Reveal from './Reveal.jsx';
 import lamaImg from '../assets/lama-2.jpeg';
 
 const tracks = [
-  { title: 'Happy Birthday',  artist: 'Kygo & John Legend', spotifyId: '0U5gQgUCGYZsC99xAbGA4v' },
+  { title: 'Happy Birthday',  artist: 'Kygo & John Legend', spotifyId: '5SAckbSHhNJ41b3bn5XwPL' },
   { title: 'Tamally Maak',    artist: 'Amr Diab',           spotifyId: '3XqM8hLCEYlbnFjoWwqtFv' },
   { title: 'Nour El Ain',     artist: 'Amr Diab',           spotifyId: '6TYFcqqQVQPb3YsgfRhvqs' },
-  { title: 'Habibi',          artist: 'Amr Diab',           spotifyId: '0iHyLzEeCcu19aEC2M3o5M' },
+  { title: 'Habibi',          artist: 'Amr Diab',           spotifyId: '73ppBd1Mc3J6JeczDvLF8E' },
   { title: 'Wayah',           artist: 'Amr Diab',           spotifyId: '3ptVro4saZIK2M6J8fIoEg' },
   { title: 'Amarain',         artist: 'Amr Diab',           spotifyId: '5FiLOvbSjR3cnOwaA9jYKy' },
   { title: 'El Alem Allah',   artist: 'Amr Diab',           spotifyId: '3NZJlJemX3mzjf56MqC5ML' },
