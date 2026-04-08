@@ -44,7 +44,7 @@ const wishes = [
   {
     id: 8,
     author: 'Emery',
-    text: 'Happy birthday Lama. You are the kind of person who does not need to say much to leave a lasting impression. Your presence speaks for itself. I hope this year is filled with moments that remind you just how special you are, and that every dream you are chasing finds its way to you.',
+    text: 'Happy birthday to the person who is all business when it counts but knows how to have fun without even trying. It is an amazing combination and one I respect a great deal. Most importantly, you are the kind of sister that I look up to. Wishing you a year full of laughter, growth, and everything you deserve.',
   },
   {
     id: 9,
